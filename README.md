@@ -1,71 +1,37 @@
 # 🚀 Thiago Diogo
+**Backend Java Engineer | Java & Distributed Systems**
 
-**Backend Software Engineer | Java & Spring Boot Specialist**
-
-🇧🇷 Brazil • Open to Global Remote Opportunities  
-
----
-
-## 👨‍💻 About Me
-
-Hey! I'm Thiago — a backend engineer focused on building **scalable distributed systems that generate real business impact** with 4+ years of experience.
-
-I specialize in **Java + Spring Boot**, working with microservices, event-driven architectures, and cloud-native systems. My experience includes high-throughput pipelines, real-time integrations, and performance-critical applications.
-
-What defines my work is simple: **measurable results + solid engineering decisions.**
+🇧🇷 Brazil • Open to Global Remote
 
 ---
 
-## ⚡ Highlights
+## 💫 About Me
+Backend Java engineer with 4+ years building **scalable distributed systems** with Java & Spring Boot.
 
-- 🚀 Reduced a critical processing pipeline from **3 hours → 40 seconds (~99% improvement)**
-- 💰 Cut communication costs by **60%** through low-level system optimization (TCP/UDP)
-- 🤖 Built an **AI agent for anti-fraud decisioning** using AWS Bedrock
-- ☁️ Designed **serverless event-driven architectures** with AWS Lambda + API Gateway
-- 🔍 Implemented **observability with CloudWatch + S3**, improving incident response time
+Focused on **performance, real-time processing, and cloud-native architectures** — always aiming for **measurable impact**.
 
 ---
 
-## 🛠️ Tech Stack
-
-```bash
-Java • Spring Boot • Microservices • REST APIs  
-AWS (Lambda, API Gateway, Bedrock, CloudWatch, S3)  
-Kafka • Redis • MySQL • JPA/Hibernate  
-Docker • Git • Maven  
-JUnit • Mockito  
-Databricks  
-TCP/UDP Sockets  
-```
+## ⚡ Impact
+- 🚀 Pipeline optimization: **3h → 40s (~99% faster)**
+- 💰 Reduced communication costs by **60%** through **TCP/UDP optimization**
+- 🤖 Built an **AI anti-fraud agent** using **AWS Bedrock**
+- ☁️ Designed **serverless event-driven architectures** with **AWS Lambda + API Gateway**
+- 🔍 Improved observability with **CloudWatch + S3**
 
 ---
 
-## 🧠 What I Work With
-
-- Distributed systems & microservices  
-- Event-driven architecture  
-- High-performance backend systems  
-- Real-time integrations  
-- Cloud-native & serverless architectures  
-- System design & scalability  
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thiago-diogo)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=google-chrome&logoColor=white)](https://www.thiagodiogo.com)
 
 ---
 
-## 🌐 Portfolio
-
-🔗 **https://www.thiagodiogo.com**
-
----
-
-## 📫 Contact
-
-- 📧 thiagodev.diogo@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/thiago-diogo  
-- 🌍 Open to remote global opportunities  
-
----
-
-## 🧩 Philosophy
-
-> Good technology is not the most hyped one.  
-> It's the one that fits the problem.
+## 💻 Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-000?style=for-the-badge&logo=apachekafka)
+![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
